@@ -1,0 +1,25 @@
+.card{
+
+    height: 100%;
+    width: 100%;
+    margin-top: 25px;
+    justify-content: space-between;
+    position: relative;
+    border: 2px green solid;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;    padding: 10px;
+}
+.media{
+    height: 100px;
+    width: 100%;
+}
+.title{
+    margin-right: 0;
+    font-size: 18px;
+}
+.actions{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+h6{
+    font-size: x-small;
+}
